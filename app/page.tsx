@@ -23,6 +23,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
             Cambios de prueba
+            Otro cambio para pruebas de jest
           </li>
         </ol>
 
